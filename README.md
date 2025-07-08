@@ -41,10 +41,3 @@ This platform offers rich integrations like secure user authentication, payment 
 
 ---
 
-## 📸 Screenshots (Add visuals here)
-
-> Showcase UI: chatbot, dashboard, billing flow, auth screens, file uploader, blog page, etc.
-
----
-
-
