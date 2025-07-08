@@ -43,7 +43,7 @@ This platform offers rich integrations like secure user authentication, payment 
 | Database     | PostgreSQL / SQLite (via Prisma)          |
 | Payments     | Stripe API                                |
 | Uploads      | Uploadcare / Cloud storage provider       |
-| Hosting      | Vercel (recommended)                      |
+
 
 ---
 
