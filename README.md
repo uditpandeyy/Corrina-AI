@@ -2,6 +2,12 @@
 
 > A production-ready, GPT-powered AI chatbot SaaS platform built with Next.js, LangChain, Stripe, Clerk, and more. Fully customizable and scalable for real-world business use.
 
+![Next.js](https://img.shields.io/badge/Next.js-14-blue?logo=next.js)
+![LangChain](https://img.shields.io/badge/LangChain-AI-yellow)
+![Stripe](https://img.shields.io/badge/Payments-Stripe-blueviolet)
+![Clerk](https://img.shields.io/badge/Auth-Clerk-red)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 ---
 
 ## 🚀 Overview
@@ -41,3 +47,10 @@ This platform offers rich integrations like secure user authentication, payment 
 
 ---
 
+## 📦 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/uditpandeyy/Corinna-AI.git
+cd Corinna-AI
